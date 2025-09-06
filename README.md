@@ -22,14 +22,10 @@ A Python tool to automatically add audio tracks from a Telegram channel to your 
 ### 1. Create a Virtual Environment
 
 ```bash
-# Create virtual environment
-python -m venv telegram-music-env
+#  virtual environment
+python -m venv venv
+venv\Scripts\activate
 
-# Activate the environment
-# On Windows:
-telegram-music-env\Scripts\activate
-# On macOS/Linux:
-source telegram-music-env/bin/activate
 ```
 
 ### 2. Install Dependencies
