@@ -1,0 +1,12 @@
+colorama==0.4.6
+Kurigram==2.2.10
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pip==23.0.1
+pyaes==1.6.1
+Pygments==2.19.2
+PySocks==1.7.1
+PyYAML==6.0.2
+rich==14.1.0
+setuptools==65.5.0
+TgCrypto==1.2.5
