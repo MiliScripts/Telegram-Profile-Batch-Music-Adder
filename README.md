@@ -55,6 +55,9 @@ Run the script with the session generation flag:
 python profile_music_adder.py --generate-session
 ```
 
+![GET SESSION](https://files.imeow.ir/dl/default/photo_2025-09-06_04-15-10.jpg)
+
+
 Follow the prompts to:
 - Enter your API ID
 - Enter your API Hash  
@@ -75,6 +78,8 @@ Run the script without arguments to configure settings:
 ```bash
 python profile_music_adder.py
 ```
+![CUSTOMIZE](https://files.imeow.ir/dl/default/photo_2025-09-06_04-15-18.jpg)
+
 
 You'll be prompted to:
 - Customize settings (choose 'y')
@@ -90,6 +95,12 @@ After configuration, run the script again to start adding music:
 ```bash
 python profile_music_adder.py
 ```
+
+
+
+![ADD TRACKS](https://files.imeow.ir/dl/default/photo_2025-09-06_04-15-23.jpg)
+
+
 
 The script will:
 1. Connect to your Telegram account
